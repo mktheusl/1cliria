@@ -10,9 +10,17 @@
 }
 .cabecalho {
 
-    color: rgb(red, green, blue);
+    color: #ff0000;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.imagem{
+    width:20%;
 }
